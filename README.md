@@ -1,3 +1,5 @@
+# Update
+  fit for meteor1.2+
 # Mylar
 Mylar is a platform that is unique in it's ability to offer web applications security & data confidentiality even in situations where servers are fully compromised. Mylar stores sensitive data in an encrypted format on the server and only decrypts the data in the user's browser. The concept of storing encrypted data on the server isn't new - but has always presented the obvious challenge of preventing the server from easily manipulating the data. Homomorphic encryption and functional encryption present theoretical techniques for manipulating encrypted data but are currently impractical for real-world implementation. Mylar provides a clever system for building web applications on top of encrypted data with reasonable performance overheads & minimal extra-development cost.
 
