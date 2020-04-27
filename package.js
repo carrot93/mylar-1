@@ -1,8 +1,8 @@
 Package.describe({
     summary: "Standard Mylar packages",
-    name: "mylar:platform",
-    version: "0.3.1",
-    git: "https://github.com/gliesesoftware/mylar.git"
+    name: "shjiaye:platform",
+    version: "0.3.2",
+    git: "https://github.com/carrot93/mylar-1.git"
 });
 
 Package.onUse(function (api) {
@@ -12,6 +12,6 @@ Package.onUse(function (api) {
         // login service for IDP accounts
         'mylar:accounts-idp@0.2.0',
         // meteor changes
-        'mylar:meteor-changes@0.3.1'
+        'shjiaye:meteor-changes@0.3.2',
     ]);
 });
